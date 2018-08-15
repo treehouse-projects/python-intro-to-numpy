@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/treehouse-projects/python-intro-to-numpy/master)
+
 # Introduction to NumPy
 
 This repository is built during the Treehouse course [Introduction to NumPy](https://teamtreehouse.com/library/introduction-to-numpy).
